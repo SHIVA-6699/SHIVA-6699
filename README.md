@@ -14,6 +14,5 @@ I'm currently working on web development<br>I'm looking for Frontend development
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA-6699&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHIVA-6699&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
