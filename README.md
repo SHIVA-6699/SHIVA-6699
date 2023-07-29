@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=SHIVA-6699&color=blueviolet)
 # 💫 About Me:
 I'm currently working on web development<br>I'm looking for Frontend development Projects working with React js<br>I'm currently learning Frontend development and cloud Technology's(AWS)<br>I'm very interested learnings about software projects it's fun to me
 
