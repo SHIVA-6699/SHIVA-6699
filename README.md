@@ -11,7 +11,7 @@ I'm currently working on web development<br>I'm looking for Frontend development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SHIVA-6699&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA-6699&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SHIVA6699?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SHIVA-6699?ext=contest)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA-6699&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
